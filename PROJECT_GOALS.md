@@ -11,7 +11,7 @@
 
 - Goal 3rd. Mapping of Synths to Midi Keyboard
 
-- Goal 4th. Playing of Synths on Midi keyboard and mapping them to patches 
+- Goal 4th. Playing of Synths on Midi keyboard and mapping them to patches **controllable by an Arturia ... midi keyboard**
 
 - Final Goal. 
     - Live Performance of Synths 
