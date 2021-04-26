@@ -1,6 +1,6 @@
 //////////////////////////////////// USEFUL CONTROLS //////////////////////////////////
 
-s.reboot;
+s.boot;
 s.plotTree;
 s.scope;
 s.freqscope;
@@ -101,7 +101,7 @@ SynthDef(\MIDIsynth, {
 	sig = sig * env * 0.1;
 	sig = sig * LFNoise2.kr(0.5).exprange(0.1,1);
 	Out.ar(0, sig);
-	
+
 
 }).add;
 )
