@@ -1,11 +1,19 @@
 # <u> Paper title </u>: “The use of Music Programming in Music Education as a new teaching music method and its benefits”
+# <u> Authors </u>: <em> Sophia Emmanouilidou, Iannis Zannos, Emmanouil Rovithis </em>
 
-## <u> Authors </u>: <em> Sophia Emmanouilidou, Iannis Zannos, Emmanouil Rovithis </em>
+# TARGET 1: English language abstract. (15 mins), 400-500 words, 3-5 references, 3-5 keywords, 100 words short cv, language: English
 
-This paper is about introducing music programming in music education and music performance. The paper centers on the use of SuperCollider in music practices and education and more specifically on the benefits of using code in order to explain how concepts known from acoustics, mathematics of sound and digital sound processing can enhance our understanding of the nature of musical sound. We discuss the benefits of music programming in music composition and performance. We show how music programming impacts both the process of music composition/performance itself and our perception of musical experience. 
+# TARGET 2: As above (Target 1), in English and Greek.
 
-The process of music programming can be time-consuming because there are many ways for shaping sound in SuperCollider. 
-Furthermore, beginners in programming lack the experience that is required to express musical thought or sonic intent flexibly and in detail.  We examine various approaches which can aid to acquire experience and to enrich the expressive vocabulary of programming techniques in this respect.  We stress the role of code reuse, that is the adaptation of existing code examples in the creation of one's own musical pieces, as a way to acquire vocabulary.  Consequently, in the case of SuperCollider education for music, it is important to identify specific categories of code techniques and the musical or technical aspects in which each of these categories is useful.  We propose that this task is comparable with the identification or formulation of Software Design Patterns (Gamma et al. 1995). 
+This paper proposes a new approach for introducing music programming in music education and music performance based on the open-source music and sound programming language SuperCollider. The paper centers on the use of SuperCollider in music practices and education and more specifically on the benefits of using code in order to explain how concepts known from acoustics, mathematics of sound and digital sound processing can enhance our understanding of the nature of musical sound. We discuss the benefits of music programming in music composition and performance. We show how music programming impacts both the process of music composition/performance itself and our perception of musical experience. 
+
+Music programming with SuperCollider can be time-consuming because this programming environment offers many alternative ways for specifying musical and sonic structures and for creating interactive sound applications.  Beginners in programming lack the experience that is required to express musical thought or sonic intent flexibly and in detail.  Therefore a main challenge for beginners is to acquire experience and to enrich their vocabulary of programming techniques in order to be able to express themselves musically through programming. 
+
+/Example based vs analytical - rule based learning methods. (alternative by IZ)/
+
+*?????? SE please explain your approach in detail, and what observations from your own learning process led you to this approach.* 
+
+We stress the role of code reuse, that is the adaptation of existing code examples in the creation of one's own musical pieces, as a way to acquire vocabulary.  Consequently, in the case of SuperCollider education for music, it is important to identify specific categories of code techniques and the musical or technical aspects in which each of these categories is useful.  We propose that this task is comparable with the identification or formulation of Software Design Patterns (Gamma et al. 1995). 
 
 *TO DEVELOP: Reuse of code!!!  As a main strategy in developing a music programming curriculum.** 
 
