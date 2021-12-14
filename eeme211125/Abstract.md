@@ -9,23 +9,16 @@ This paper proposes a new approach for introducing music programming in music ed
 
 Music programming with SuperCollider can be time-consuming because this programming environment offers many alternative ways for specifying musical and sonic structures and for creating interactive sound applications.  Beginners in programming lack the experience that is required to express musical thought or sonic intent flexibly and in detail.  Therefore a main challenge for beginners is to acquire experience and to enrich their vocabulary of programming techniques in order to be able to express themselves musically through programming.
 
-/Example based vs analytical - rule based learning methods. (alternative by IZ)/
+This ability can only be achieved through code reuse of existing music programming examples and compositions. From personal experience, when I started emerging into music programming via SuperCollider I found it hard to write my own code at the beginning of my learning process. Therefore, the significant step-forward into my learning process was to reuse/recode existing code examples and compositions that they were using SynthDefs and understand their parameters. After being familiarised with the concept of coding and music programming in SuperCollider was I able to understand the process that has to be taken in order program code in SuperCollider and thus create/write my own sounds and SynthDefs. 
 
-*This ability can only be achieved through code reuse of existing music programming examples and compositions. From personal experience, when I started emerging into music programming via SuperCollider I found it hard to write my own code at the beginning of my learning process. Therefore, the significant step-forward into my learning process was to reuse/recode existing code examples and compositions that they were using SynthDefs and understand their parameters. After being familiarised with the concept of coding and music programming in SuperCollider was I able to understand the process that has to be taken in order program code in SuperCollider and thus create/write my own sounds and SynthDefs.*   
-
-//When working at an elementary level one that cannot have the flexibility to write his/her own code can use also existing examples on the internet regarding synth code (SynthDefs) or can use audio files. Once this first problem is solved, then experimentation on the sound itself and the over dubbing of different sound synths in on.
+When working at an elementary level one that cannot have the flexibility to write their own code can use also existing examples on the internet regarding synth code (SynthDefs) or can use audio files. Once this first problem is solved, then experimentation on the sound itself and the over dubbing of different sound synths in on.
 
 
 We stress the role of code reuse, that is the adaptation of existing code examples in the creation of one's own musical pieces, as a way to acquire vocabulary.  Consequently, in the case of SuperCollider education for music, it is important to identify specific categories of code techniques and the musical or technical aspects in which each of these categories is useful.  We propose that this task is comparable with the identification or formulation of Software Design Patterns (Gamma et al. 1995).
 
-*TO DEVELOP: Reuse of code!!!  As a main strategy in developing a music programming curriculum.**
 
-*Activity learning (HCI)*
+The above-mentioned process is the key for learning and developing efficiently the practices of music programming into music teaching methods. One may say that improvisation and experimentation are key factors for further development of all the arts and sciences. The proces described can be seen as a special type *activity learning* applied to music and digital technology. SuperCollider and music programming in general can open the door to creativity and exploration. This is crucial for a composer/musician/performer living in our fast-paced society.
 
-The above-mentioned process is the key for learning and developing efficiently the practices of music programming into music teaching methods. One may say that improvisation and experimentation are key factors for further development of all the arts and sciences. SuperCollider and music programming in general can open the door to creativity and exploration. This is crucial for a composer/musician/performer living in our fast-paced society.
-
-
-.
 Technology dominates a great amount of our everyday life but however we use music technology and music programming in a very scrupulous manner. The present paper advocates that composers/musicians/performers and, therefore, music teachers try to embrace the existing technological advances through the usage of music programming in SuperCollider, in because this opens up an enormous potential for new sounds.
 
 <u> Key words </U>: Music Programming, SuperCollider, New Compositional Practices, New Teaching Methods, Music Technology
