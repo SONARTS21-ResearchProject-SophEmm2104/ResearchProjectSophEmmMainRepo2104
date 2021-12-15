@@ -7,3 +7,4 @@ Sophia Emmanouilidou studied Music Composition at Bachelor’s and Master’s le
 
 ## Iannis Zannos
 
+Iannis Zannos researches interactive media arts at the Department of Audiovisual Arts and at the postgraduate course in Arts and Technologies of Sound of the Music Department at the Ionian University, Corfu. Besides performing regularly with Live Coding on SuperCollider, he also participates in artistic collaborations in a Media Arts setting.  Currently Iannis Zannos is focusing on how environmental issues as well as problems of multiculturality are reflected in media-art terms, in particular collaborative and performance practices with gestural devices employing telematic technologies.
