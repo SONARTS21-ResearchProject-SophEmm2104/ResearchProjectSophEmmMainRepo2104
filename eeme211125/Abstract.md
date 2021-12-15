@@ -13,6 +13,7 @@ Music programming with SuperCollider can be time-consuming because this programm
 
 The above-mentioned process is the key for learning and developing efficiently the practices of music programming into music teaching methods. One may say that improvisation and experimentation are key factors for further development of all the arts and sciences. The process described can be seen as a special type activity learning applied to music and digital technology. SuperCollider and music programming in general can open the door to creativity and exploration. This is crucial for a composer/musician/performer living in our fast-paced society.
 
+
 Technology dominates a great amount of our everyday life but however we use music technology and music programming in a very scrupulous manner. The present paper advocates that composers/musicians/performers and, therefore, music teachers try to embrace the existing technological advances through the usage of music programming in SuperCollider, in because this opens up an enormous potential for new sounds.
 
 
