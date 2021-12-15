@@ -3,6 +3,10 @@
 ## <u> Authors </u>: <em> Sophia Emmanouilidou, Iannis Zannos
 ## <u> Co- Author </u>: Emmanouil Rovithis </em>
 
+# TARGET 1: English language abstract. (15 mins), 400-500 words, 3-5 references, 3-5 keywords, 100 words short cv, language: English
+
+# TARGET 2: As above (Target 1), in English and Greek.
+
 This paper proposes a new approach for introducing music programming in music education and music performance based on the open-source music and sound programming language SuperCollider. The paper centers on the use of SuperCollider in music practices and education and more specifically on the benefits of using code in order to explain how concepts known from acoustics, mathematics of sound and digital sound processing can enhance our understanding of the nature of musical sound. We discuss the benefits of music programming in music composition and performance. We show how music programming impacts both the process of music composition/performance itself and our perception of musical experience.
 
 Music programming with SuperCollider can be time-consuming because this programming environment offers many alternative ways for specifying musical and sonic structures and for creating interactive sound applications. Beginners in programming lack the experience that is required to express musical thought or sonic intent flexibly and in detail. Therefore, a main challenge for beginners is to acquire experience and to enrich their vocabulary of programming techniques in order to be able to express themselves musically through programming.
