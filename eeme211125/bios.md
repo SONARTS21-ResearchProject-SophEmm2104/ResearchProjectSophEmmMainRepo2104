@@ -1,10 +1,24 @@
-# <u> Short Bios </u> 
+# <u> Short Bios </u>
+
+*missing the bio from Prof. Emmanouil Rovithis. Overmore, we should add our bios in Greek Language*
 
 ## Sophia Emmanouilidou
 
-Sophia Emmanouilidou
-Sophia Emmanouilidou studied Music Composition at Bachelor’s and Master’s level (5-years degree equivalent to an integrated master) in Faculty of Fine Arts, School of Music Studies at Aristotle University of Thessaloniki (GR) under the supervision of Prof. Michalis Lapidakis. She studied also composition with Prof. Christos Samaras, Prof. Dimitris Papageorgiou and Prof. Dimitris Maronidis. In 2020 she graduated from Aristotle University and she was admitted at the intersectional Master Programme “Sound Arts and Technologies” at Ionian University in Corfu (GR). Sophia Emmanouilidou currently focuses on electroacoustic compositions and music programming as well all multidisciplinary compositions for acoustic instruments, tapes, media and music programming.
+Sophia Emmanouilidou studied Music Composition at Bachelor’s and Master’s level (5-years degree equivalent to an integrated master) in Faculty of Fine Arts, School of Music Studies at Aristotle University of Thessaloniki (GR) under the supervision of Prof. Michalis Lapidakis. She studied also composition with Prof. Christos Samaras, Prof. Dimitris Papageorgiou and Prof. Dimitris Maronidis. Moreover, she had had composition master classes under the supervision of Mark Andre, Malin Bång, Bryan Ferneyhough, Jana Luksts, Heidi Kay Begay, Cristian Benvenuti and Reinhold Friedl. In 2020 she graduated from Aristotle University and she was admitted at the intersectional Master Programme “Sound Arts and Technologies” at Ionian University in Corfu (GR) in the specialisation of Autonomous Artistic Sound Composition. Sophia Emmanouilidou currently focuses on electroacoustic compositions and music programming as well all multidisciplinary compositions for acoustic instruments, tapes, media and music programming. She lives and works in Thessaloniki as a musician/composer/performer. Furthermore, for the last 5 years she has also been working as a music educator in Creative Employment Centers for Children (CECC)/ Music Schools/Conservatories and Public Vocational Training Institutes (PVTI).
+
+## Σοφία Εμμανουηλίδου
+
+Η Σοφία Εμμανουηλίδου σπούδασε Σύνθεση σε προπτυχιακό και μεταπτυχιακό επίπεδο (πτυχίο 5 ετών ισοδύναμο με integrated master) στη Σχολή Καλών Τεχνών, του τμήματος Μουσικών Σπουδών του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης (GR) υπό την επίβλεψη του καθηγητή Μιχάλη Λαπιδάκη. Σπούδασε επίσης σύνθεση με τους καθηγητές Χρήστο Σαμαρά, Δημήτρη Παπαγεωργίου και Δημήτρη Μαρωνίδη. Επιπλέον, έχει κάνει master classes σύνθεσης με τους Mark Andre, Malin Bång, Bryan Ferneyhough, Jana Luksts, Heidi Kay Begay, Cristian Benvenuti  και Reinhold Friedl. Το 2020 αποφοίτησε από το Αριστοτέλειο Πανεπιστήμιο και έγινε δεκτή στο διατμηματικό μεταπτυχιακό πρόγραμμα σπουδών «Τέχνες και Τεχνολογίες του Ήχου» του Ιονίου Πανεπιστημίου στην Κέρκυρα (GR) στην κατεύθυνση της Ηλεκτροακουστικής Καλλιτεχνικής Δημιουργίας. Επί του παρόντος, η Σοφία Εμμανουηλίδου επικεντρώνεται σε ηλεκτροακουστικές συνθέσεις και σε συνθέσεις με χρήση μουσικού προγραμματισμού, καθώς και σε multimedia συνθέσεις με συνδυασμό ακουστικών οργάνων, tapes, βίντεο και μουσικού προγραμματισμού. Ζει και εργάζεται στην Θεσσαλονίκη ως μουσικός/συνθέτης/εκτελεστής. Επιπλέον, τα τελευταία 5 χρόνια εργάζεται επίσης ως μουσικοπαιδαγωγός σε κέντρα Δημιουργικής Απασχόλησης (ΚΔΑΠ)/Μουσικές Σχολές/Ωδεία και Δημόσια Ινστιτούτα Επαγγελματικής Κατάρτισης (ΔΙΕΚ).  
 
 ## Iannis Zannos
 
 Iannis Zannos researches interactive media arts at the Department of Audiovisual Arts and at the postgraduate course in Arts and Technologies of Sound of the Music Department at the Ionian University, Corfu. Besides performing regularly with Live Coding on SuperCollider, he also participates in artistic collaborations in a Media Arts setting.  Currently Iannis Zannos is focusing on how environmental issues as well as problems of multiculturality are reflected in media-art terms, in particular collaborative and performance practices with gestural devices employing telematic technologies.
+
+## Γιάννης Ζάννος
+....
+
+
+## Emmanouil Rovithis
+....
+## Εμμανουήλ Ροβίθης
+....
