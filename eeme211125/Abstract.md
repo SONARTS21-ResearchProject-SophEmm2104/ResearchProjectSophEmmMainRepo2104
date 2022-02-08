@@ -30,7 +30,6 @@ Key words : Music Programming, SuperCollider, New Compositional Practices, New T
 
 ## <u> Authors </u>: <em> Σοφία Εμμανουηλίδου, Γιάννης Ζάννος
 ## <u> Co- Author </u>: Εμμανουήλ Ροβίθης</em>
-<<<<<<< HEAD
 
 Αυτό το επιστημονικό άρθρο προτείνει μια νέα προσέγγιση για την εισαγωγή του μουσικού προγραμματισμού στη μουσική εκπαίδευση και τη μουσική εκτέλεση (performance)  με βάση τη γλώσσα προγραμματισμού μουσικής και ήχου ανοιχτού κώδικα SuperCollider. To άρθρο αυτό εστιάζει στη χρήση του SuperCollider στις μουσικές πρακτικές και στην εκπαίδευση και πιο συγκεκριμένα στα οφέλη της χρήσης κώδικα προκειμένου να εξηγήσει κανείς έννοιες γνωστές από την ακουστική, όπως τα μαθηματικά του ήχου και την ψηφιακή επεξεργασία του ήχου, οι οποίες μπορούν να βελτιώσουν την κατανόησή μας για τη φύση του μουσικού ήχου. Συζητάμε, δηλαδή, τα οφέλη του μουσικού προγραμματισμού στη σύνθεση και την εκτέλεση μουσικής και δείχνουμε πως ο μουσικός προγραμματισμός επηρεάζει τόσο τη διαδικασία σύνθεσης/εκτέλεσης της ίδιας της μουσικής όσο και την αντίληψή μας για τη μουσική εμπειρία καθ’ αυτή.
 
@@ -50,5 +49,3 @@ Key words : Music Programming, SuperCollider, New Compositional Practices, New T
 1.	Magnusson, T. (n.d.). Physical Modelling | Scoring. Scoring Sound: Creative Music Coding with SuperCollider. Retrieved December 16, 2020, from https://thormagnusson.gitbooks.io/scoring/content/PartII/chapter11.html
 2.	Zannos, I. (2021, January 16). simple pbind-score playing function. GitHub. https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-scd
 3.	Καραμανλής, O. (2021). Σύνθεση και επεξεργασία ήχου με το Supercollider. Εκδόσεις Φυλάτος. ISBN:978-960-658-088-8
-=======
->>>>>>> 48efb6c625bae83ac53299064c01d46fd2daf4ad
