@@ -24,3 +24,9 @@ Key words : Music Programming, SuperCollider, New Compositional Practices, New T
 
 1.	Magnusson, T. (n.d.). Physical Modelling | Scoring. Scoring Sound: Creative Music Coding with SuperCollider. Retrieved December 16, 2020, from https://thormagnusson.gitbooks.io/scoring/content/PartII/chapter11.html
 2.	Zannos, I. (2021, January 16). simple pbind-score playing function. GitHub. https://gist.github.com/iani/d8d6545a172042dfbcd48f67a72cdfe5#file-pbind_score-scd
+3.	Karamanlis, O. (2021). Audio composition and editing in Supercollider IDE. Fylatos Publications. ISBN:978-960-658-088-8
+
+# <u> Τίτλος Περίληψης </u>: «Η χρήση του Μουσικού Προγραμματισμού στη Μουσική Εκπαίδευση ως νέα μέθοδος διδασκαλίας και τα οφέλη της»
+
+## <u> Authors </u>: <em> Σοφία Εμμανουηλίδου, Γιάννης Ζάννος
+## <u> Co- Author </u>: Εμμανουήλ Ροβίθης</em>
