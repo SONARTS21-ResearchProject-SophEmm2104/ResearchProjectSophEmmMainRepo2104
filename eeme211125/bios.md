@@ -1,7 +1,5 @@
 # <u> Short Bios </u>
 
-*missing the bio from Prof. Emmanouil Rovithis. Overmore, we should add our bios in Greek Language*
-
 ## Sophia Emmanouilidou
 
 Sophia Emmanouilidou studied Music Composition at Bachelor’s and Master’s level (5-years degree equivalent to an integrated master) in Faculty of Fine Arts, School of Music Studies at Aristotle University of Thessaloniki (GR) under the supervision of Prof. Michalis Lapidakis. She studied also composition with Prof. Christos Samaras, Prof. Dimitris Papageorgiou and Prof. Dimitris Maronidis. Moreover, she had had composition master classes under the supervision of Mark Andre, Malin Bång, Bryan Ferneyhough, Jana Luksts, Heidi Kay Begay, Cristian Benvenuti and Reinhold Friedl. In 2020 she graduated from Aristotle University and she was admitted at the intersectional Master Programme “Sound Arts and Technologies” at Ionian University in Corfu (GR) in the specialisation of Autonomous Artistic Sound Composition. Sophia Emmanouilidou currently focuses on electroacoustic compositions and music programming as well all multidisciplinary compositions for acoustic instruments, tapes, media and music programming. She lives and works in Thessaloniki as a musician/composer/performer. Furthermore, for the last 5 years she has also been working as a music educator in Creative Employment Centers for Children (CECC)/ Music Schools/Conservatories and Public Vocational Training Institutes (PVTI).
@@ -18,7 +16,10 @@ Iannis Zannos researches interactive media arts at the Department of Audiovisual
 ....
 
 
-## Emmanouil Rovithis
-....
+## Emmanouel Rovithis
+
+Dr. Emmanouel Rovithis holds a PhD (first-class honours) in Electronic Music Composition from the Department of Music Studies of the Ionian University in Corfu, Greece. He is currently employed as Laboratory Research and Teaching Staff at the Department of Audio & Visual Arts of the Ionian University, teaching subjects related to Instructional Design, Technology in Art Education, and Music Programming. His research focuses on the design of Audio Games, and Augmented Reality Audio applications for educational, entertaining, and creative purposes. He has designed numerous interactive installations, educational games and software, seminars and workshops on behalf of prominent cultural institutions, and has a strong background in music composition and sound design for theater and cinema.
+
 ## Εμμανουήλ Ροβίθης
-....
+
+Ο Δρ. Εμμανουήλ Ροβίθης είναι κάτοχος διδακτορικού τίτλου στην Ηλεκτρονική Μουσική Σύνθεση από το Τμήμα Μουσικών Σπουδών του Ιονίου Πανεπιστημίου. Εργάζεται ως Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π) στο Τμήμα Τεχνών Ήχου και Εικόνας του Ιονίου Πανεπιστημίου διδάσκοντας μαθήματα που εφάπτονται των πεδίων του Εκπαιδευτικού Σχεδιασμού, της Τεχνολογίας στη Διδακτική της Τέχνης, και της Μουσικής Πληροφορικής. Η έρευνά του στο Εργαστήριο Επεξεργασίας Οπτικοακουστικών Σημάτων (ΕΠ.Ο.A.ΣΗ) του ίδιου Τμήματος εστιάζει στον Σχεδιασμό Ηχητικών Παιχνιδιών, και Εφαρμογών Ακουστικώς Επαυξημένης Πραγματικότητας με εκπαιδευτικό και ψυχαγωγικό προσανατολισμό. Ως συνθέτης έχει εργαστεί επί σειρά ετών στον χώρο του θεάτρου και του κινηματογράφου, και ως σχεδιαστής εκπαιδευτικού περιεχομένου έχει υλοποιήσει εργαστήρια, σεμινάρια, λογισμικά και διαδραστικές εγκαταστάσεις για λογαριασμό εξέχοντων πολιτισμικών φορέων.
