@@ -3,10 +3,6 @@
 ## <u> Authors </u>: <em> Sophia Emmanouilidou, Iannis Zannos
 ## <u> Co- Author </u>: Emmanouil Rovithis </em>
 
-# TARGET 1: English language abstract. (15 mins), 400-500 words, 3-5 references, 3-5 keywords, 100 words short cv, language: English
-
-# TARGET 2: As above (Target 1), in English and Greek.
-
 Technology dominates a great amount of our everyday life but however we use music technology and music programming in a very scrupulous manner. The present paper advocates that composers/musicians/performers and, therefore, music teachers try to embrace the existing technological advances through the usage of music programming in SuperCollider, in because this opens up an enormous potential for new sounds. This is crucial for a composer/musician/performer living in our fast-paced society.
 
 One may say that improvisation and experimentation are key factors for further development of all the arts and sciences. The process described can be seen as a special type activity learning applied to music and digital technology. SuperCollider and music programming in general can open the door to creativity and exploration.
