@@ -20,7 +20,6 @@
 3. *Earth Demise_ Room 42*
 4. *Snowpiercer Season 2 Episode 6 finale*
 5. *Apodomisis*
-6. *Synthetic*
 7. *Experimentation and Mantra*
 
 Θα εξετάσω τα εξής έργα αναλύοντας τα παρακάτω στοιχεία/ερωτήματα:
