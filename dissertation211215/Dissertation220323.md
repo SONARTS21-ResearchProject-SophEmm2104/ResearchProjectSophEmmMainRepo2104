@@ -1,5 +1,7 @@
 ## ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ
 
+![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/Ionian_University_seal.png)
+
 ## ΣΧΟΛΗ ΜΟΥΣΙΚΗΣ ΚΑΙ ΟΠΤΙΚΟΑΚΟΥΣΤΙΚΩΝ ΤΕΧΝΩΝ
 
 ## Τμήμα Μουσικών Σπουδών και το Τμήμα Τεχνών Ήχου και Εικόνας
