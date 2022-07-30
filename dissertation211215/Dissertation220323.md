@@ -143,11 +143,11 @@ O όρος ρητορική (ενν. τέχνη) (θηλ. γέν. του αρχ�
 
 # Βιβλιογραφία
 
-1.	Γκρίφιθς, Πολ. “Μοντέρνα Μουσική”, Μετάφραση: Μαρία Κωστίου, Επιμέλεια: Απόστολος Κώτσιος, Σ.Ι. Ζαχαρόπουλος, Αθήνα 1993
-2.	Cage, John. “Silence: Lectures and Writings”, Reprinted ed., Marion Boyars, 2017
-3.	John S. Nelson, Allan Megill, and Donald N. McCloskey, “The Rhetoric of Human Sciences: Language and Argument in Scholarship and Public Affairs”, London: University of Wisconsin Press, 1987
+1.	Γκρίφιθς, Πολ. *“Μοντέρνα Μουσική”*, Μετάφραση: Μαρία Κωστίου, Επιμέλεια: Απόστολος Κώτσιος, Σ.Ι. Ζαχαρόπουλος, Αθήνα 1993
+2.	Cage, John. *“Silence: Lectures and Writings”*, Reprinted ed., Marion Boyars, 2017
+3.	John S. Nelson, Allan Megill, and Donald N. McCloskey, *“The Rhetoric of Human Sciences: Language and Argument in Scholarship and Public Affairs”*, London: University of Wisconsin Press, 1987
 4.	“Ρητορική”. Iv. Ρητορική, http://ebooks.edu.gr/ebooks/v/html/8547/2336/Istoria-tis-Archaias-Ellinikis-Grammateias_A-B-G-Gymnasiou_html-apli/index2d.html.
-5.	Τσίτσιου-Χελιδόνη, Χρυσάνθη. “Ψηφίδες Για Την Ελληνική Γλώσσα”. Ρητορεία Και Ρητορική, Ψηφίδες Για Την Ελληνική Γλώσσα , 2012, https://www.greek-language.gr/digitalResources/ancient_greek/encyclopedia/rhetoric/page_001.html?prev=true#fn2.
-6.	Jahn, Manfred. “Narratology 2.3: A Guide to the Theory of Narrative”. English Department, University of Cologne. Published in 2021.  URL www.uni-koeln.de/~ame02/pppn.pdf.
-7.	Hühn, Peter; Sommer, Roy. "Narration in Poetry and Drama". The Living Handbook of Narratology. Interdisciplinary Center for Narratology, University of Hamburg. 2012 http://www.lhn.uni-hamburg.de/node/40.html
-*James Phelan - Narrative as Rhetoric*
+5.	Τσίτσιου-Χελιδόνη, Χρυσάνθη. *“Ψηφίδες Για Την Ελληνική Γλώσσα”*. Ρητορεία Και Ρητορική, Ψηφίδες Για Την Ελληνική Γλώσσα , 2012, https://www.greek-language.gr/digitalResources/ancient_greek/encyclopedia/rhetoric/page_001.html?prev=true#fn2.
+6.	Jahn, Manfred. *“Narratology 2.3: A Guide to the Theory of Narrative”*. English Department, University of Cologne. Published in 2021.  URL www.uni-koeln.de/~ame02/pppn.pdf.
+7.	Hühn, Peter; Sommer, Roy. *"Narration in Poetry and Drama"*. The Living Handbook of Narratology. Interdisciplinary Center for Narratology, University of Hamburg. 2012 http://www.lhn.uni-hamburg.de/node/40.html
+8. Phelan, James. *“Narrative as Rhetoric”* The Ohio State University Press, 1996, https://ohiostatepress.org/books/BookPages/PhelanNarrative.htm
