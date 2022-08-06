@@ -28,16 +28,16 @@
      1.1.2 Εισαγωγή
 
 ## 2. Ανάλυση των έργων
-2.1 Κατασκευή Drones
+     2.1 Κατασκευή Drones
      2.1.1 Θεωρητικό Υπόβαθρο
      2.1.2 Τεχνικά Ζητήματα
-2.2 Εργασία “Το Δάσος”
+     2.2 Εργασία “Το Δάσος”
      2.2.1 Θεωρητικό Υπόβαθρο
      2.2.2 Τεχνικά Ζητήματα
-2.3 Εργασία Ηχητικής Επένδυσης
+     2.3 Εργασία Ηχητικής Επένδυσης
      2.3.1 Θεωρητικό Υπόβαθρο
      2.3.2 Τεχνικά Ζητήματα
-2.4 Τελική Εργασία
+     2.4 Τελική Εργασία
      2.4.1 Θεωρητικό Υπόβαθρο
      2.4.2 Τεχνικά Ζητήματα
 
@@ -169,5 +169,7 @@ Link: https://drive.google.com/drive/folders/1ztGzT3334T-VCDCrjKAuoa_TByRSHosZ?u
 8.	“Adobe Audition Sound Effects.” Adobe. Date of access 14 Mar. 2021, www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html
 9.	Loufopoulos, Apostolos. “Forest Samples.” Google Drive, 12 Oct. 2014, https://drive.google.com/drive/folders/1f1EdFwH4WPXrh0gReSx5Qj9b0CFZN96W
 10.	The Oxford Music Dictonary:
+
      i.	Scruton, Roger. "Programme music.", Grove Music Online. 2001. Oxford University Press. Date of access 28 Mar. 2020, https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000022394
+
      ii.	Hegarty, Paul. "Noise.", Grove Music Online.  May 25, 2016. Oxford University Press. Date of access 30 Mar. 2020, https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-1002292545
