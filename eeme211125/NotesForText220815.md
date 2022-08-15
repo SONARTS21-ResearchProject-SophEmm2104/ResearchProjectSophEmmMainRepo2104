@@ -2,7 +2,7 @@
 
 # what is SuperCollider?
 
-asdf asdf 
+asdf asdf
 
 # why use music Programming in music education and sound Education?
 
