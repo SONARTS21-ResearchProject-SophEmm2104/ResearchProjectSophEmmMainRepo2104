@@ -6,6 +6,8 @@ SuperCollider is an environment and programming language for real-time audio syn
 
 SuperCollider is a dynamic programming language and provides a framework for acoustic research, algorithmic music, interactive programming and live coding.
 
+# new chapter 
+
 # Why use music Programming in music education and sound Education?
 
 Music programming affects both the process of composing/performing music itself and our understanding of the musical experience itself.
