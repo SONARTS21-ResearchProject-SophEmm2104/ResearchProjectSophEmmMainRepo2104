@@ -1,12 +1,11 @@
 # Music Programming in Music Education
 
-# what is SuperCollider?
+# What is SuperCollider?
 
-SuperCollider is an environment and programming language originally released in 1996 by James McCartney for real-time audio synthesis and algorithmic composition.
+SuperCollider is an environment and programming language for real-time audio synthesis and algorithmic composition.  It was launched by James McCartney in 1996.  Since 2003 SuperCollider is a fully open-source project and is further developed by a community of programmers.
 
-Since then it has been evolving into a system used and further developed by both scientists and artists working with sound. It is a dynamic programming language providing a framework for acoustic research, algorithmic music, interactive programming and live coding.
+SuperCollider is a dynamic programming language and provides a framework for acoustic research, algorithmic music, interactive programming and live coding.
 
-<u> Key words </u> : * Open-Source Software, Free Software, Easy to Use,
 Easy to find examples on the Internet and tutorials of how to use it
 
 # why use music Programming in music education and sound Education?
