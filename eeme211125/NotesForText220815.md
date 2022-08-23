@@ -6,21 +6,19 @@ SuperCollider is an environment and programming language for real-time audio syn
 
 SuperCollider is a dynamic programming language and provides a framework for acoustic research, algorithmic music, interactive programming and live coding.
 
-Due to the fact that SuperCollider is open-source IDE and there is an evolving community around it one can easily find tutorials of its use and pre-existing examples of code that correspond to one's needs.
-
-# why use music Programming in music education and sound Education?
+# Why use music Programming in music education and sound Education?
 
 Music programming affects both the process of composing/performing music itself and our understanding of the musical experience itself.
 
-SuperCollider is an excellent tool for teaching programming.
+# Benefits and advantages of SuperCollider as a tool for music education
 
-<u> Benefits of use of SuperCollider </u>
+Due to the fact that SuperCollider is open-source IDE and there is an evolving community around it one can easily find tutorials of its use and pre-existing examples of code that correspond to one's needs.
 
 1. Use of SuperCollider in order to explain sound parameters
 2. processing of audio files in SuperCollider
 3. sound synthesis/creation of SynthDefs
 
-<u> Problems of use of SuperCollider </u>
+# Difficulties presented by SuperCollider in education
 
 1. In order to get
 
