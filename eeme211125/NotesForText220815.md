@@ -2,9 +2,13 @@
 
 # What is SuperCollider?
 
+This paper argues that composers/musicians/performers and, therefore, music teachers would be well advised to try to assimilate existing technological developments through the use of music programming. We consider as a candidate tool for this purpose SuperCollider, a free open source software that is one of the most sophisticated and complete programming environments for sound and music.
+
 SuperCollider is an environment and programming language for real-time audio synthesis and algorithmic composition.  It was launched by James McCartney in 1996.  Since 2003 SuperCollider is a fully open-source project and is further developed by a community of programmers.
 
 SuperCollider is a dynamic programming language and provides a framework for acoustic research, algorithmic music, interactive programming and live coding.
+
+Cosidering the above, one can easily understand that this environment opens up rich possibilities for new sounds and musical structures. This is vital for a composer/musician/performer living in today’s fast-paced society.
 
 # What are the parameters and conditions of music education with technology today?
 
@@ -12,7 +16,13 @@ The objectives that are set between music education and technology are based sti
 
 # Why use music Programming in music education and sound Education?
 
-Music programming affects both the process of composing/performing music itself and our understanding of the musical experience itself.
+Music programming affects both the process of composing/performing music itself and our understanding of the musical experience itself. Moreover, the use of SuperCollider in music practice and education can give music teachers the oppotunity to explain concepts known from acoustics, music mathematics and digital sound processing in order to improve our understanding of the nature of musical sound (Physical Modelling, Magnusson n.d.).
+
+- Benefits of music programming in music composition and performance
+
+- Propising a method based on finding, selecting examples of code and adapting and combining them with free experimentation in an improvisational manner.
+
+It is widely known that improvisation and experimentation are key factors in the development of the arts and sciences. The process described can be seen as a specific learning activity applied to music and digital technology (Activity theory as a potential framework for human-computer interaction research, Kuutti 1996).
 
 # Benefits and advantages of SuperCollider as a tool for music education
 
@@ -32,13 +42,13 @@ Due to the fact that SuperCollider is open-source IDE and there is an evolving c
 
 # current problems in music Education (what is missing, what are the problems and what code can offer)
 
+Although all the above metion difficulties can be also cosidered as prerequisites in order for one to use SuperCollider, when one posses a laptop and/or PC and is willing to overcome partially some of these difficulties e.g. one's elementary level of English, a new whole world of potentials is unlocked.  
+
 # what is the context of music education?
 
 Music Education still focuses only on advancing on an music instrument and/or music theory.  
 
-# Goal
-
-*the use of SuperCollider in music practice and education and more specifically on the benefits of using code to explain concepts known from acoustics, music mathematics and digital sound processing in order to improve our understanding of the nature of musical sound*
+# Method
 
 *We propose a method based on finding, selecting examples of code and adapting and combining them with free experimentation in an improvisational manner. It is widely known that improvisation and experimentation are key factors in the development of the arts and sciences. The process described can be seen as a specific learning activity applied to music and digital technology (Activity theory as a potential framework for human-computer interaction research, Kuutti 1996).*
 
