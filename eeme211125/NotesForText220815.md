@@ -2,7 +2,7 @@
 
 # What is SuperCollider?
 
-This paper argues that composers/musicians/performers and, therefore, music teachers would be well advised to try to assimilate existing technological developments through the use of music programming. We consider as a candidate tool for this purpose SuperCollider, a free open source software that is one of the most sophisticated and complete programming environments for sound and music.
+This paper argues that composers/musicians/performers and, therefore, music teachers would be well advised to try to assimilate existing technological developments through the use of music programming. The whole concept of this paper is based on my personal experience learning how to use new technological advances in music performances and music education. We consider as a candidate tool for this purpose SuperCollider, a free open source software that is one of the most sophisticated and complete programming environments for sound and music.
 
 SuperCollider is an environment and programming language for real-time audio synthesis and algorithmic composition.  It was launched by James McCartney in 1996.  Since 2003 SuperCollider is a fully open-source project and is further developed by a community of programmers.
 
@@ -60,5 +60,16 @@ Music Education still focuses only on advancing on an music instrument and/or mu
 *activity learning. the process of play is close to the nature of the child, try and error*
 
 # a model scenario for introducing supercollider in music Education
+
+use of pre-existing code examples
+
+...
+
+# institutions and music schools that are willing to implement this educational scenario
+
+Ano's Polis Concervatoire, Ano Poli/Thessaloniki, Greece
+
+Music School "Mousiko Karavi", Oraiokastron/Thessaloniki, Greece
+
 # state of the art: what programming tools and what projects have or are introducing programming in music education
 # conclusions
