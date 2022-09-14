@@ -1,7 +1,6 @@
 # <u> Paper title </u>: “The use of Music Programming in Music Education as a new teaching music method and its benefits”
 
 ## <u> Authors </u>: <em> Sophia Emmanouilidou, Iannis Zannos
-## <u> Co- Author </u>: Emmanouel Rovithis </em>
 
 Although digital technology has invaded our everyday life, knowledge of its principles is very limited amongst musicians. Ignorance of the principles of programming and digital technology is a hindrance to creativity when using music technology. This paper argues that composers/musicians/performers and, therefore, music teachers would be well advised to try to assimilate existing technological developments through the use of music programming. We consider as a candidate tool for this purpose SuperCollider, a free open source software that is one of the most sophisticated and complete programming environments for sound and music. This environment opens up rich possibilities for new sounds and musical structures. This is vital for a composer/musician/performer living in today’s fast-paced society.
 
@@ -10,6 +9,8 @@ This scholarly article proposes a new approach to introducing music programming 
 Programming music with SuperCollider can be time-consuming because this programming environment offers many alternative ways to define musical and sound structures and to create interactive audio applications. Beginners in programming lack the experience needed to express musical thought or sound intent with flexibility and detail. Therefore, a key challenge for beginners is to gain experience and enrich their vocabulary of programming techniques so that they can express themselves musically through programming. Consequently, we emphasize the role of code reuse, i.e., adapting existing code examples to create new ones, as a tool to enrich the musical programming vocabulary (Foundations of game-based learning, Plass et al.2015). We examine how such examples can be found on the web and how they are adapted for educational and creative purposes. We propose that this process is comparable to the identification or formulation of software design patterns (Software Design Patterns, Gamma et al. 1994). As a typical example, we consider criteria and methods for combining sounds produced by synthesizers during mixing. We attempt to identify categories of code techniques and the musical aspects to which they correspond.
 
 The experiences gained from experimenting with SuperCollider have given us convincing evidence that musical programming can open the door to musical creativity and exploration, and have given us a first insight into the potential of free open source software in education and artistic creation.
+
+Key words : Music Education, Music Programming, SuperCollider, Compositional Practices, Music Technology
 
 <u> References: </u>
 
@@ -31,6 +32,8 @@ The experiences gained from experimenting with SuperCollider have given us convi
 Ο προγραμματισμός μουσικής με το SuperCollider μπορεί να είναι χρονοβόρος, επειδή αυτό το περιβάλλον προγραμματισμού προσφέρει πολλούς εναλλακτικούς τρόπους για τον καθορισμό μουσικών και ηχητικών δομών και για τη δημιουργία διαδραστικών εφαρμογών ήχου. Οι αρχάριοι στον προγραμματισμό δεν διαθέτουν την εμπειρία που απαιτείται για να εκφράσουν τη μουσική σκέψη ή την ηχητική πρόθεση με ευελιξία και λεπτομέρεια. Ως εκ τούτου, μια βασική πρόκληση για τους αρχάριους είναι να αποκτήσουν εμπειρία και να εμπλουτίσουν το λεξιλόγιό τους σε τεχνικές προγραμματισμού ώστε να μπορούν να εκφραστούν μουσικά μέσω του προγραμματισμού. Κατά συνέπεια τονίζουμε τον ρόλο της επαναχρησιμοποίησης κώδικα, δηλαδή της προσαρμογής υφιστάμενων παραδειγμάτων κώδικα στη δημιουργία νέων, ως εργαλείο εμπλουτισμού του μουσικού προγραμματιστικού λεξιλογίου (Foundations of game-based learning, Plass et al.2015). Εξετάζουμε πως μπορούν να βρεθούν τέτοια παραδείγματα στο διαδίκτυο και πως προσαρμόζονται για εκπαιδευτικούς και δημιουργικούς σκοπούς. Προτείνουμε ότι αυτή η διαδικασία είναι συγκρίσιμη με την αναγνώριση ή τη διατύπωση προτύπων σχεδίασης λογισμικού (Software Design Patterns, Gamma et al. 1994). Σαν χαρακτηριστικό παράδειγμα εξετάζουμε κριτήρια και μεθόδους για τον συνδυασμό των ήχων που παράγονται από συνθετητές κατά την μείξη. Επιχειρούμε να προσδιορίσουμε κατηγορίες τεχνικών κώδικα και τις μουσικές πτυχές στις οποίες αντιστοιχούν.
 
 Οι εμπειρίες που κερδίσαμε από τον πειραματισμό με το SuperCollider μας έδωσαν πειστικές ενδείξεις πως ο μουσικός προγραμματισμός μπορεί να ανοίξει την πόρτα στη μουσική δημιουργικότητα και την εξερεύνηση, και μας έδωσαν μια πρώτη εικόνα για τις δυνατότητες του ελεύθερου λογισμικού ανοικτού κώδικα στην εκπαίδευση και καλλιτεχνική δημιουργία.
+
+Λέξεις Κλειδιά :  Μουσική Εκπαίδευση, Μουσικός Προγραμματισμός,  SuperCollider, Τεχνικές Σύνθεσης, Μουσική τεχνολογία
 
 <u> Βιβλιογραφία </u>:
 
