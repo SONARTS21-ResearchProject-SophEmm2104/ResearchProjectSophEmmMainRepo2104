@@ -10,7 +10,7 @@ Programming music with SuperCollider can be time-consuming because this programm
 
 The experiences gained from experimenting with SuperCollider have given us convincing evidence that musical programming can open the door to musical creativity and exploration, and have given us a first insight into the potential of free open source software in education and artistic creation.
 
-Key words : Music Education, Music Programming, SuperCollider, Compositional Practices, Music Technology
+<u> Key words </u> : Music Education, Music Programming, SuperCollider, Compositional Practices, Music Technology
 
 <u> References: </u>
 
@@ -23,7 +23,6 @@ Key words : Music Education, Music Programming, SuperCollider, Compositional Pra
 # <u> Τίτλος Περίληψης </u>: «Η χρήση του Μουσικού Προγραμματισμού στη Μουσική Εκπαίδευση ως νέα μέθοδος διδασκαλίας και τα οφέλη της»
 
 ## <u> Authors </u>: <em> Σοφία Εμμανουηλίδου, Γιάννης Ζάννος
-## <u> Co- Author </u>: Εμμανουήλ Ροβίθης</em>
 
 Παρότι η ψηφιακή τεχνολογία έχει κατακλύσει καθημερινότητά μας, η γνώση της είναι πολύ περιορισμένη στους κύκλους της μουσικής. Η άγνοια των αρχών του προγραμματισμού και της ψηφιακής τεχνολογίας είναι ανασταλτικός παράγοντας στην δημιουργικότητα όταν χρησιμοποιούμε μουσική τεχνολογία. Το παρόν άρθρο υποστηρίζει ότι οι συνθέτες/μουσικοί/ερμηνευτές και, ως εκ τούτου, οι δάσκαλοι μουσικής θα ήταν καλό να προσπαθήσουν να αφομοιώσουν τις υπάρχουσες τεχνολογικές εξελίξεις μέσω της χρήσης του μουσικού προγραμματισμού. Εξετάζουμε σαν υποψήφιο εργαλείο για τον σκοπό αυτό το SuperCollider, ένα ελεύθερο λογισμικό ανοιχτού κώδικα που είναι ένα από τα πιo εξελιγμένα και πλήρη περιβάλλοντα προγραμματισμού για ήχο και μουσική. Το περιβάλλον αυτό ανοίγει πλούσιες δυνατότητες για νέους ήχους και μουσικές δομές. Αυτό είναι ζωτικής σημασίας για έναν συνθέτη/μουσικό/ερμηνευτή που ζει στην σημερινή κοινωνία μας η οποία αναπτύσσεται σε γρήγορους ρυθμούς.
 
@@ -33,7 +32,7 @@ Key words : Music Education, Music Programming, SuperCollider, Compositional Pra
 
 Οι εμπειρίες που κερδίσαμε από τον πειραματισμό με το SuperCollider μας έδωσαν πειστικές ενδείξεις πως ο μουσικός προγραμματισμός μπορεί να ανοίξει την πόρτα στη μουσική δημιουργικότητα και την εξερεύνηση, και μας έδωσαν μια πρώτη εικόνα για τις δυνατότητες του ελεύθερου λογισμικού ανοικτού κώδικα στην εκπαίδευση και καλλιτεχνική δημιουργία.
 
-Λέξεις Κλειδιά :  Μουσική Εκπαίδευση, Μουσικός Προγραμματισμός,  SuperCollider, Τεχνικές Σύνθεσης, Μουσική τεχνολογία
+<u> Λέξεις Κλειδιά </u> :  Μουσική Εκπαίδευση, Μουσικός Προγραμματισμός,  SuperCollider, Τεχνικές Σύνθεσης, Μουσική τεχνολογία
 
 <u> Βιβλιογραφία </u>:
 
