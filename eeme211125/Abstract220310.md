@@ -1,6 +1,6 @@
 # <u> Paper title </u>: “The use of Music Programming in Music Education as a new teaching music method and its benefits”
 
-## <u> Authors </u>: <em> Sophia Emmanouilidou, Iannis Zannos
+## <u> Authors </u>: <em> Sophia Emmanouilidou, Iannis Zannos </em>
 
 Although digital technology has invaded our everyday life, knowledge of its principles is very limited amongst musicians. Ignorance of the principles of programming and digital technology is a hindrance to creativity when using music technology. This paper argues that composers/musicians/performers and, therefore, music teachers would be well advised to try to assimilate existing technological developments through the use of music programming. We consider as a candidate tool for this purpose SuperCollider, a free open source software that is one of the most sophisticated and complete programming environments for sound and music. This environment opens up rich possibilities for new sounds and musical structures. This is vital for a composer/musician/performer living in today’s fast-paced society.
 
@@ -22,7 +22,7 @@ The experiences gained from experimenting with SuperCollider have given us convi
 
 # <u> Τίτλος Περίληψης </u>: «Η χρήση του Μουσικού Προγραμματισμού στη Μουσική Εκπαίδευση ως νέα μέθοδος διδασκαλίας και τα οφέλη της»
 
-## <u> Authors </u>: <em> Σοφία Εμμανουηλίδου, Γιάννης Ζάννος
+## <u> Authors </u>: <em> Σοφία Εμμανουηλίδου, Γιάννης Ζάννος </em>
 
 Παρότι η ψηφιακή τεχνολογία έχει κατακλύσει καθημερινότητά μας, η γνώση της είναι πολύ περιορισμένη στους κύκλους της μουσικής. Η άγνοια των αρχών του προγραμματισμού και της ψηφιακής τεχνολογίας είναι ανασταλτικός παράγοντας στην δημιουργικότητα όταν χρησιμοποιούμε μουσική τεχνολογία. Το παρόν άρθρο υποστηρίζει ότι οι συνθέτες/μουσικοί/ερμηνευτές και, ως εκ τούτου, οι δάσκαλοι μουσικής θα ήταν καλό να προσπαθήσουν να αφομοιώσουν τις υπάρχουσες τεχνολογικές εξελίξεις μέσω της χρήσης του μουσικού προγραμματισμού. Εξετάζουμε σαν υποψήφιο εργαλείο για τον σκοπό αυτό το SuperCollider, ένα ελεύθερο λογισμικό ανοιχτού κώδικα που είναι ένα από τα πιo εξελιγμένα και πλήρη περιβάλλοντα προγραμματισμού για ήχο και μουσική. Το περιβάλλον αυτό ανοίγει πλούσιες δυνατότητες για νέους ήχους και μουσικές δομές. Αυτό είναι ζωτικής σημασίας για έναν συνθέτη/μουσικό/ερμηνευτή που ζει στην σημερινή κοινωνία μας η οποία αναπτύσσεται σε γρήγορους ρυθμούς.
 
