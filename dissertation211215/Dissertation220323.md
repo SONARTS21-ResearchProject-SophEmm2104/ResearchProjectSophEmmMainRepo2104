@@ -67,17 +67,15 @@ Although the analysis of a work by the composer himself seems problematic, the c
      1.5 Ορισμός της Τέχνης της Αφήγησης
      1.6 Ο ρόλος της αφήγησης στην πολυμεσικότητα
 ## 2. Ανάλυση τoυ πολυμεσικού έργου  “*Life in Plastic*”   
-    2.1 Πλοκή του έργου
-    2.2 Διαφορετικές εκδοχές (versions) του έργου
+    2.1 Κεντρική θεματική του έργου (πλοκή)
+    2.2 Διαφορετικές εκδοχές (versions) του έργου και πως αυτές προέκυψαν
     2.3 Αφηγηματικότητα των μέσων στην πρώτη εκδοχή (version)
     2.4 Αφηγηματικότητα των μέσων στην πρώτη εκδοχή (version)
-
 ## 3. Συμπεράσματα
 ## 4. Επίλογος
 ## 5. Βιβλιογραφία
 
-
-# 1.1 Θεωρητικό υπόβαθρο του υπομνήματος
+# 1. Θεωρητικό υπόβαθρο του υπομνήματος
 
 ## 1.1 Εισαγωγή
 
@@ -93,36 +91,29 @@ Although the analysis of a work by the composer himself seems problematic, the c
 
 Σε αντιδιαστολή με τα προηγούμενα, υπάρχουν σαφώς και έργα που κάνουν ορθή χρήση της πολυμεσικότητας με τέτοιο τρόπο έτσι ώστε να αντιπροσωπεύεται στο επάκρον η εξιστόριση της αφήγησης της πλοκής του έργου. Από την pop μουσική χαρακτηριστικό παράδειγμα απότελεί το έργο "*Faceshopping*" της καλλιτέχνιδος Sophie. Στο έργο αυτό η χρήση καθώς και η αλλαγή των οπτικών μέσων αλληλοεξατάται από τους στίχους του τραγουδιού καθώς την πορεία της μουσικής (Xeon, 2018).  
 
-Από πιο λόγια περιβάλλοντα, πιστεύω πως ο καλλιτέχνης Alexander Schubert είναι ένας από τους κατ' εξοχήν συνθέτες που ασχολείται με πολυμεσικά έργα. Πιστεύω ακράδαντα πως το παράδειγμα που δείχνει με το έργο του ο καλλιτέχνης αυτός θα πρέπει να εξεταστεί ενδελεχώς από συνθέτες και μουσικολόγους που θέλουν να εντρυφίσουν στην πολυμεσικότητα στην μουσική. Τα έργα του Alexander Schubert
+Από πιο λόγια περιβάλλοντα, πιστεύω πως ο καλλιτέχνης Alexander Schubert είναι ένας από τους κατ' εξοχήν συνθέτες που ασχολείται με πολυμεσικά έργα. Πιστεύω ακράδαντα πως το παράδειγμα που δείχνει με το έργο του ο καλλιτέχνης αυτός θα πρέπει να εξεταστεί ενδελεχώς από συνθέτες και μουσικολόγους που θέλουν να εντρυφίσουν στην πολυμεσικότητα στην μουσική. Χαρακτηριστικά το έργο του με τίτλο "*Star me Kitten* είναι κατά την γνώμη μου ένα επιτυχές παράδειγμα πολυμεσικού έργου. Το έργο αυτό είναι για μία εκφωνήτρια/τραγουδίστρια, διαφάνειες πάουερπόιντ (powerpoint), ειδική ηχητική επένδυση (electronics) και ευέλικτο σύνολο (flexible ensemble). Η εκφωνήτρια/τραγουδίστρια έχει τον πρωταγωνιστικό ρόλο και σύμφωνα με την διαδοχή των διαφανειών που αλλάζει στο φορητό ηλεκτρονικό υπολογιστή της ακολουθεί το σύνολο καθώς και ο ηχολήπτης (sound engineer) ο οποίος επενδύει ηχητικά το σύνολο με ηλεκτρονικά. Οι διαδάνειες του πάουερπόιντ εμπεριέχουν τόσο εικόνες όσο και μικρά βίντεο καθώς και χιουμοριστικές εικόνες (memes). Τα μέσα που χρησιμοποιεί δηλαδή αλληλοεξαρτώνται το ένα με το άλλο και έτσι η πολυμεσικότητα είναι επιτυχής καθώς υπάρχει διάδραση (Schubert,2015).
+
+*ίσως πρέπει να γίνει ξεχωριστό κεφάλαιο γι αυτό;;;;;*
 
 *alexander schubert ( τι κάνει; τι είναι το διαφορετικό;)*
 
 *τουλάχιστον 5 κοινά σημεία που βρίσκω στα έργα του Schubert και αντιστοιχούν και στα δικά μου, μαζί με σχολιασμό*
 
-Σε συνάφεια με την γραμμή των παραπάνω παρδειγμάτων τα οποία θεωρώ επιτυχή παραδείγματα πολυμεσικότητας, στο έργο μου "*Life in Plastic*" η χρήση των μέσων έρχεται για να δώσει έμφαση στην αφήγηση/εξιστόρηση της πλοκή/υπόθεση της ιστορίας που πραγματεύεται.  
-
-
 *με παραδειγματα και στο δικό μου έργο και σε έργα άλλων και περιγραφή ενδείξεων που μπορεί να πάει κάπου αλλού.*
+
+Σε συνάφεια με την γραμμή των παραπάνω παραδειγμάτων τα οποία θεωρώ επιτυχή παραδείγματα πολυμεσικότητας, στο έργο μου "*Life in Plastic*" η χρήση των μέσων έρχεται για να δώσει έμφαση στην αφήγηση/εξιστόρηση της πλοκή/υπόθεση της ιστορίας που πραγματεύεται. Επιπλέον, τα χρησιμοπποιούμενα μέσα έχουν δομηθεί με τέτοιο τρόπο έτσι ώστε το ένα να αλληλοεξαρτάται από το άλλο και έτσι να "αλληλοεπιδρούν" μεταξύ τους.
 
 Η οπτική γωνία με την οποία εξετάζεται η διπλωματική αυτή είναι αυτή του συνθέτη/μουσικολόγου. Με την σύνταξη της παρούσας διπλωματικής εργασίας έχω σκοπό να αναδείξω τα τεχνικά μέσα τα οποία προσδίδουν σχέση αλληλεπίδρασης μεταξύ ήχου, εικόνας και επιτέλεσης έτσι ώστε μελλοντικοί συνθέτες/μουσικολόγοι να έχουν την εφόδια να αναπτύξουν τα δικά τους πολυμεσικά έργα ή να αναλύσουν επαρκώς τα ήδη υπάρχοντα.  
 
 Κατανοώντας πως η σύνδεση ήχου και εικόνας επιδέχεται πολλές απαντήσεις και προοπτικές από διάφορα επιστημονικά πεδία όπως μουσικολογία, ψυχολογία, φιλοσοφία η απόπειρα αυτής της μελέτης αποσκοπεί σε μία πρώτη τριβή με το θέμα. Η συγκεκριμένη θεματική πιστεύω χρήζει μελέτης και έρευνας δεδομένου του ότι η τέχνη μας έχει την τάση να γίνεται πολυμεσική.
 
-Στην πρώτη ενότητα θα αναλυθεί η μεθολογία της έρευνας και πως αυτή προέκυψε. Στην δεύτερη ενότητα θα γίνει μία εκτενής ανάλυση των στοιχείων που προσδίδουν σχέση αλληλεξάρτησης μεταξύ ήχου και εικόνας και της επιτέλεσης και θα αιτιολογηθούν μέσω της τέχνης της αφήγησης. Κατ΄αυτόν τον τρόπο θα μπορέσουμε να δούμε κατά πόσο η αλλαγή της
-μεταφράζεται ο ήχος σε εικόνα και η εικόνα σε ήχο και θα δικαιολογηθεί -ή όχι- η μεταξύ τους αλληλεπίδρασή/σχέση.
+Στην πρώτη ενότητα θα αναλυθεί η μεθολογία της έρευνας και πως αυτή προέκυψε. Στην δεύτερη ενότητα θα γίνει μία εκτενής ανάλυση των στοιχείων που προσδίδουν σχέση αλληλεξάρτησης μεταξύ ήχου, εικόνας και επιτέλεσης και θα αιτιολογηθούν μέσω της τέχνης της αφήγησης. Κατ΄αυτόν τον τρόπο θα μπορέσουμε να δούμε κατά πόσο η αλλαγή της προοπτικής της εκτέλεσης από τις δύο πιθανές εκδοχές του έργου επιρρεάζει -ή όχι- την συνολιγκή δομή του έργου και συνεπώς την αφήγηση στην πολυμεσικότητα.  
 
 ## 1.2 Περιγραφή της θεματικής της διπλωματικής
 
-*correct me*
+Η παρούσα διπλωματική εργασία έρχεται να αναλύσει τα αφηγηματικά μέσα που χρησιμοποιούνται στην εικόνα, στον ήχο καθώς και στην επιτέλεση σε δύο εκδοχές του πολυμεσικού μου έργου "*Life in Plastic*".
 
-Η παρούσα διπλωματική εργασία έρχεται να αναλύσει τα αφηγηματικά μέσα που χρησιμοποιούνται τόσο στην εικόνα όσο και στον ήχο στα εξής έργα:
-
-1.	Memories of the Sea
-2.	Life in Plastic
-3.	Earth Demise_ Room 42
-4.	Snowpiercer Season 2 Episode 6 finale
-5.	Apodomisis
-6.	Experimentation and Mantra
+Η κύρια διαφοροποίηση μεταξύ των δύο πιθανών εκδοχών του έργου αυτού είναι η διαφορετικές προοοπτικές επιτέλεσης. Στην πρώτη εκδοχή του έργου υπάρχει συγκεκριμένο σύνολο/ομάδα με εκτέλεστές οι οποίοι επιτελούν το έργο διαβαζοντας την αντίστοιχη παρτιτούρα. Σε αντίθεση, η δεύτερη εκδοχή του έργου δεν έχει παρτιτούρα και οι εκτελεστές είναι το ίδιο το ακροατήριο.  
 
 Με αυτή την προσπάθεια επεξήγησης των αφηγηματικών στοιχείων που διέπουν τα έργα αυτά μπορούμε σε ένα πρώτο στάδιο να εντρυφήσουμε στις θεματικές που πραγματεύονται αυτά καθώς και να δούμε την σχέση της εικόνας με τον ήχο και του ήχου με την εικόνα (Klangbild BildKlang).
 
@@ -165,16 +156,25 @@ O όρος ρητορική (ενν. τέχνη) (θηλ. γέν. του αρχ�
 
 *Multimedia storytelling has many benefits. Key among them is the ability to elicit stronger emotions and capture the attention of the audience for longer periods. One form of multimedia storytelling, the interactive infographic, is particularly effective at engaging users because they need to actively participate in the story by scrolling, clicking, and rolling over the content to get the full impact.*    
 
+These new tools and platforms can free up content teams to focus their attention and resources on what matters most: the storytelling. And this leads to better content — as we'll show in our examples, below.
+
+
+# Συμπεράσματα
+
+- κοινή πρακτική των ημερών μας τόσο από την καθημερινή ζωή όσο και από την τέχνη
+- περισσότερη διέγερση των αισθήσεών μας και συνεπώς μεγαλύτερη συναισθηματική δέσμευση/συγκίνηση
+- για να υπάρξει πολυμεσικότητα θα πρέπει να δημιουργούμε συνδέσεις μεταξύ των μέσων έτσι ώστε το ένα να εξαρτάται νοητά από το άλλο και όλλα μαζί να εξυπηρετούν την κεντρική ιδέα της θεματικής
 
 # Βιβλιογραφία
 
-1.	Γκρίφιθς, Πολ. “*Μοντέρνα Μουσική*”, Μετάφραση: Μαρία Κωστίου, Επιμέλεια: Απόστολος Κώτσιος, Σ.Ι. Ζαχαρόπουλος, Αθήνα 1993
-2.	Cage, John. “*Silence: Lectures and Writings*”, Reprinted ed., Marion Boyars, 2017
-3.	John S. Nelson, Allan Megill, and Donald N. McCloskey, “*The Rhetoric of Human Sciences: Language and Argument in Scholarship and Public Affairs*”, London: University of Wisconsin Press, 1987
+1.	Γκρίφιθς, Πολ. “*Μοντέρνα Μουσική*”, Μετάφραση: Μαρία Κωστίου, Επιμέλεια: Απόστολος Κώτσιος, Σ.Ι. Ζαχαρόπουλος, Αθήνα 1993.
+2.	Cage, John. “*Silence: Lectures and Writings*”, Reprinted ed., Marion Boyars, 2017.
+3.	John S. Nelson, Allan Megill, and Donald N. McCloskey, “*The Rhetoric of Human Sciences: Language and Argument in Scholarship and Public Affairs*”, London: University of Wisconsin Press, 1987.
 4.	Τσίτσιου-Χελιδόνη, Χρυσάνθη. “*Ψηφίδες Για Την Ελληνική Γλώσσα*”. Ρητορεία Και Ρητορική, Ψηφίδες Για Την Ελληνική Γλώσσα , 2012, https://www.greek-language.gr/digitalResources/ancient_greek/encyclopedia/rhetoric/page_001.html?prev=true#fn2.
-5.	Jahn, Manfred. “*Narratology 2.3: A Guide to the Theory of Narrative*”. English Department, University of Cologne. Published in 2021, https://www.uni-koeln.de/~ame02/pppn.pdf
-6.	Hühn, Peter; Sommer, Roy. "*Narration in Poetry and Drama*". The Living Handbook of Narratology. Interdisciplinary Center for Narratology, University of Hamburg. 2012 http://www.lhn.uni-hamburg.de/node/40.html
-7. Phelan, James. “*Narrative as Rhetoric*” The Ohio State University Press, 1996, https://ohiostatepress.org/books/BookPages/PhelanNarrative.htm
-8. Xeon, Sophie. “*Sophie - Faceshopping (Official Video)*” YouTube, SOPHIE, 4 Apr. 2018, https://www.youtube.com/watch?v=es9-P1SOeHU. Accessed on 25 December 2022
-9. Merriam-Webster. “*Drama Definition & Meaning.*” Merriam-Webster Dictionary, https://www.merriam-webster.com/dictionary/drama. Accessed on 25 December 2022
+5.	Jahn, Manfred. “*Narratology 2.3: A Guide to the Theory of Narrative*”. English Department, University of Cologne. Published in 2021, https://www.uni-koeln.de/~ame02/pppn.pdf.
+6.	Hühn, Peter; Sommer, Roy. "*Narration in Poetry and Drama*". The Living Handbook of Narratology. Interdisciplinary Center for Narratology, University of Hamburg. 2012 http://www.lhn.uni-hamburg.de/node/40.html.
+7. Phelan, James. “*Narrative as Rhetoric*” The Ohio State University Press, 1996, https://ohiostatepress.org/books/BookPages/PhelanNarrative.htm.
+8. Xeon, Sophie. “*Sophie - Faceshopping (Official Video)*” YouTube, SOPHIE, 4 Apr. 2018, https://www.youtube.com/watch?v=es9-P1SOeHU. Accessed on 25 December 2022.
+9. Merriam-Webster. “*Drama Definition & Meaning.*” Merriam-Webster Dictionary, https://www.merriam-webster.com/dictionary/drama. Accessed on 25 December 2022.
 10. Britannica, The Editors of Encyclopaedia. "*Music Drama*". Encyclopedia Britannica, 20 Jul. 1998, https://www.britannica.com/art/music-drama. Accessed 25 December 2022.
+11. Schubert, Alexander. “*Alexander Schubert - Star Me Kitten [Soundinitiative]*” YouTube, Alexander Schubert, 22 June 2015, https://www.youtube.com/watch?v=CcorGw1h688&amp;t=161s. Accessed 26 December 2022.
