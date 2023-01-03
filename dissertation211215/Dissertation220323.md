@@ -91,11 +91,15 @@ Although the analysis of a work by the composer himself seems problematic, the c
 
 Μολονότι η απαρχή της χρωματικής συναισθησίας σηματοδοτείτε γύρω στις αρχές του 20ου αιώνα, υπάρχουν αναφορές και για άλλους συνθέτες προγενέστερους που παρουσίαζαν τα ίδια συμπτώματα. Από συνθέτες του 19ου αιώνα έχουμε τον συνθέτη και πιανίστα Φραντς Λιστ (Franz List), του οποίου τα σχόλια συχνά μπέρδευαν την ορχήστρα του. Λεγόταν πως "έβλεπε χρώματα" στο άκουσμα μουσικών τόνων και έκανε υποδείξεις στους μουσικούς να παίζουν με διαφορετικές ποιότητες χρωμάτων (Tan, 2021). Ο Σκριάμπιν ανέπτυξε την θεωρία του περί συναισθησίας αφού διάβασε το βιβλίο "*Optics*" του Ισαάκ Νεύτον (Isaac Newton) που έγραψε το 1704. Στο βιβλίο αυτό ο Νεύτον χρησιμοποιεί μουσικές μεταφορές και παραδείγματα έτσι ώστε να περιγράψει το χρώμα και το φως. Ο όρος που χρησιμοποιείται για την συσχέτιση μεταξύ του ήχου και του χρώματος/φωτός είναι ο Φωτισμός (Photism) και σύμφωνα με τα παραπάνω διαπιστώνουμε πως και ο Νεύτων είχε και αυτός ένα είδος χρωματικής συναισθησίας (Neely, 2018).   
 
-Έκτοτε και έως τις μέρες μας, πλήθος μουσικών και ερευνητών προσπάθησαν να βρούνε ή να εφεύρουν συστήματα τα οποία συσχετίζουν την εικόνα με τον ήχο και επαληθεύονται με αντικειμενικά κριτήρια. Δυστυχώς κάτι τέτοιο δεν είναι εφικτό διότι το φως -και συνεπώς το χρώμα και η εικόνα- αποτελεί ένα ηλεκτρομαγνητικό κύμα ενώ ο ήχος -η μουσική, ο θόρυβος- αποτελεί ένα μηχανικό κύμα και είναι ανεξάρτητα μεταξύ τους. Επιπλέον οι συναισθητικές εμπειρίες διαφέρουν μεταξύ των συναισθητικών ανθρώπων καθώς κάθε άνθρωπος έχει διαφορετική ανταπόκριση στην έκθεση ενός χρώματος/ποιότητα φωτός (Neely,2018).
+Έκτοτε και έως τις μέρες μας, πλήθος μουσικών και ερευνητών προσπάθησαν να βρούνε ή να εφεύρουν συστήματα τα οποία συσχετίζουν την εικόνα με τον ήχο και επαληθεύονται με αντικειμενικά κριτήρια. Δυστυχώς κάτι τέτοιο δεν είναι εφικτό διότι το φως -και συνεπώς το χρώμα και η εικόνα- αποτελεί ένα ηλεκτρομαγνητικό κύμα ενώ ο ήχος -η μουσική, ο θόρυβος- αποτελεί ένα μηχανικό κύμα και είναι ανεξάρτητα μεταξύ τους. Επιπλέον οι συναισθητικές εμπειρίες διαφέρουν μεταξύ των συναισθητικών ανθρώπων καθώς κάθε άνθρωπος έχει διαφορετική ανταπόκριση στην έκθεση ενός χρώματος/ποιότητα φωτός (Neely,2018). Αυτό διαφαίνεται και από τις παρακάτω εικόνες οι οποίες μας δείχνουν δύο διαφορετικά συστήματα αντιστοίχισης νοτών και χρωμάτων.
 
-//
-*παραδείγματα με εικόνες και συστήματα συναισθησίας*
-//
+![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/Association-between-note-and-color-Alexander-Scriabin_Q320.jpg
+
+Εικόνα 1: Σύστημα συσχέτισης νοτών και χρωμάτων από τον Αλεξάντρ Σκριάμπιν (Matanski, 2017).
+
+![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/ColorOfSound_Nextdrum_md.jpg)
+
+Εικόνα 2: Σύστημα συσχέτισης νοτών και χρωμάτων από τους Νίκολας Μελέντες (Nicholas Melendez) και Κλιντ Γκος (Clint Goss) (Goss and Melendez, 2016)
 
 Κατανοώντας πως η σύνδεση ήχου και εικόνας επιδέχεται πολλές απαντήσεις και προοπτικές από διάφορα επιστημονικά πεδία όπως μουσικολογία, ψυχολογία, φιλοσοφία η απόπειρα αυτής της μελέτης αποσκοπεί σε μία πρώτη τριβή με το θέμα. Η συγκεκριμένη θεματική πιστεύω χρήζει μελέτης και έρευνας δεδομένου του ότι η τέχνη μας έχει την τάση να γίνεται πολυμεσική και διαδραστική.
 
@@ -273,21 +277,26 @@ john cage -> happenings
 
 1.	Γκρίφιθς, Πολ. “*Μοντέρνα Μουσική*”, Μετάφραση: Μαρία Κωστίου, Επιμέλεια: Απόστολος Κώτσιος, Σ.Ι. Ζαχαρόπουλος, Αθήνα 1993.
 2.	Cage, John. “*Silence: Lectures and Writings*”, Reprinted ed., Marion Boyars, 2017.
+3.	Τσίτσιου-Χελιδόνη, Χρυσάνθη. “*Ψηφίδες Για Την Ελληνική Γλώσσα*”. Ρητορεία Και Ρητορική, Ψηφίδες Για Την Ελληνική Γλώσσα , 2012, https://www.greek-language.gr/digitalResources/ancient_greek/encyclopedia/rhetoric/page_001.html?prev=true#fn2, Accessed 28 September 2022.
+4.	Jahn, Manfred. “*Narratology 2.3: A Guide to the Theory of Narrative*”. English Department, University of Cologne. Published in 2021, https://www.uni-koeln.de/~ame02/pppn.pdf, Accessed 28 September 2022.
+5.	Hühn, Peter; Sommer, Roy. "*Narration in Poetry and Drama*". The Living Handbook of Narratology. Interdisciplinary Center for Narratology, University of Hamburg. 2012 http://www.lhn.uni-hamburg.de/node/40.html, Accessed 14 August 2022.
+6. Phelan, James. “*Narrative as Rhetoric*” The Ohio State University Press, 1996, https://ohiostatepress.org/books/BookPages/PhelanNarrative.htm, Accessed 14 August 2022.
+7. Xeon, Sophie. “*Sophie - Faceshopping (Official Video)*” YouTube, SOPHIE, 4 Apr. 2018, https://www.youtube.com/watch?v=es9-P1SOeHU. Accessed on 25 December 2022.
+8. Merriam-Webster. “*Drama Definition & Meaning.*” Merriam-Webster Dictionary, https://www.merriam-webster.com/dictionary/drama, Accessed on 25 December 2022.
+9. Britannica, The Editors of Encyclopaedia. "*Music Drama*". Encyclopedia Britannica, 20 Jul. 1998, https://www.britannica.com/art/music-drama, Accessed 25 December 2022.
+10. Schubert, Alexander. “*Alexander Schubert - Star Me Kitten [Soundinitiative]*” YouTube, Alexander Schubert, 22 June 2015, https://www.youtube.com/watch?v=CcorGw1h688&amp;t=161s, Accessed 26 December 2022.
+11. Nelson, Angela. “*Synesthesia: When One Sense Comes through as Another*.” WebMD, Reviewed by Christopher Melinosky on 23 August 2022, MD , https://www.webmd.com/brain/what-is-synesthesia, Accessed 26 December 2022.
+12. Neely, Adam. “*New Horizons in Music: Polyrhythms | Loop.*” YouTube, Ableton Inc , 5 Mar. 2018, https://www.youtube.com/watch?v=JiNKlhspdKg&amp;t=8s, Accessed 26 December 2022.
+13. Scruton, Roger. "Programme music.", Grove Music Online. 2001. Oxford University Press. Date of access 28 Mar. 2020, https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000022394, Accessed 26 December 2022.
+14. Urlich Michels, Άτλας της Μουσικής, Τόμος ΙΙ “Από το Μπαρόκ μέχρι σήμερα”, Eκδοτικός οίκος: Φίλιππος Νάκας. Αθήνα 1995.
+15. Christopher Headington, “Ιστορία της Δυτικής Μουσική από την αρχαιότητα ως τις μέρες μας”, Τόμος Ι “Από την αρχαιότητα μέχρι τον Beethoven”, Πρόλογος-Μετάφραση: Μάρκος Δραγούμης, Εκδοτικός οίκος: Gutenberg, Αθήνα 1993.
+16. Christopher Headington, “Ιστορία της Δυτικής Μουσική από την αρχαιότητα ως τις μέρες μας”, Τόμος ΙΙ “Από τον Γερμανικό Ρομαντισμό κι εφεξής”, Πρόλογος-Μετάφραση: Μάρκος Δραγούμης, Εκδοτικός οίκος: Gutenberg, Αθήνα 1993.
+17. Tan, Michelle. “*Seeing Sound & Hearing Colours: Exploring the Concept of Chromesthesia.*” Sound of Life, Powered by KEF: Hi-Fi Speakers & Headphones, 6 Sept. 2021, https://www.soundoflife.com/blogs/experiences/seeing-sound-hearing-colours-exploring-the-concept-of-chromesthesia, Accessed 29 December 2022.
+18. Νταλχάους, Καρλ. “Αισθητική Της Μουσικής”, Ελληνική γλώσσα ed., Στάχυ , Αθήνα, 2000.
+19. Roberts, David. “*Visual Feasts of the Mind: Matching How We Teach to How We Learn*” Ghost Archive, TEDx Talks and TEDxLoughboroughU, 13 Dec. 2016, https://ghostarchive.org/varchive/FJyhTg26w-A, Accessed 2 January 2023.
+20. Matanski, Viktor, "*Generative visualization based on sound*". Scientific Figure on ResearchGate. Published on 16 August 2017. Available from: https://www.researchgate.net/figure/Association-between-note-and-color-Alexander-Scriabin_fig2_319136065, Accessed 3 January 2023.
+21. Goss, Clint, and  Melendez, Nicolas. “*The Color of Sound*” Flutopedia, Manifest Spirit Music, Published on 20 August 2016, https://www.flutopedia.com/sound_color.htm, Accessed 3 January 2023.
+
+
+
 3.	John S. Nelson, Allan Megill, and Donald N. McCloskey, “*The Rhetoric of Human Sciences: Language and Argument in Scholarship and Public Affairs*”, London: University of Wisconsin Press, 1987.
-4.	Τσίτσιου-Χελιδόνη, Χρυσάνθη. “*Ψηφίδες Για Την Ελληνική Γλώσσα*”. Ρητορεία Και Ρητορική, Ψηφίδες Για Την Ελληνική Γλώσσα , 2012, https://www.greek-language.gr/digitalResources/ancient_greek/encyclopedia/rhetoric/page_001.html?prev=true#fn2, Accessed 28 September 2022.
-5.	Jahn, Manfred. “*Narratology 2.3: A Guide to the Theory of Narrative*”. English Department, University of Cologne. Published in 2021, https://www.uni-koeln.de/~ame02/pppn.pdf, Accessed 28 September 2022.
-6.	Hühn, Peter; Sommer, Roy. "*Narration in Poetry and Drama*". The Living Handbook of Narratology. Interdisciplinary Center for Narratology, University of Hamburg. 2012 http://www.lhn.uni-hamburg.de/node/40.html, Accessed 14 August 2022.
-7. Phelan, James. “*Narrative as Rhetoric*” The Ohio State University Press, 1996, https://ohiostatepress.org/books/BookPages/PhelanNarrative.htm, Accessed 14 August 2022.
-8. Xeon, Sophie. “*Sophie - Faceshopping (Official Video)*” YouTube, SOPHIE, 4 Apr. 2018, https://www.youtube.com/watch?v=es9-P1SOeHU. Accessed on 25 December 2022.
-9. Merriam-Webster. “*Drama Definition & Meaning.*” Merriam-Webster Dictionary, https://www.merriam-webster.com/dictionary/drama, Accessed on 25 December 2022.
-10. Britannica, The Editors of Encyclopaedia. "*Music Drama*". Encyclopedia Britannica, 20 Jul. 1998, https://www.britannica.com/art/music-drama, Accessed 25 December 2022.
-11. Schubert, Alexander. “*Alexander Schubert - Star Me Kitten [Soundinitiative]*” YouTube, Alexander Schubert, 22 June 2015, https://www.youtube.com/watch?v=CcorGw1h688&amp;t=161s, Accessed 26 December 2022.
-12. Nelson, Angela. “*Synesthesia: When One Sense Comes through as Another*.” WebMD, Reviewed by Christopher Melinosky on 23 August 2022, MD , https://www.webmd.com/brain/what-is-synesthesia, Accessed 26 December 2022.
-13. Neely, Adam. “*New Horizons in Music: Polyrhythms | Loop.*” YouTube, Ableton Inc , 5 Mar. 2018, https://www.youtube.com/watch?v=JiNKlhspdKg&amp;t=8s, Accessed 26 December 2022.
-14. Scruton, Roger. "Programme music.", Grove Music Online. 2001. Oxford University Press. Date of access 28 Mar. 2020, https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000022394, Accessed 26 December 2022.
-15. Urlich Michels, Άτλας της Μουσικής, Τόμος ΙΙ “Από το Μπαρόκ μέχρι σήμερα”, Eκδοτικός οίκος: Φίλιππος Νάκας. Αθήνα 1995.
-16. Christopher Headington, “Ιστορία της Δυτικής Μουσική από την αρχαιότητα ως τις μέρες μας”, Τόμος Ι “Από την αρχαιότητα μέχρι τον Beethoven”, Πρόλογος-Μετάφραση: Μάρκος Δραγούμης, Εκδοτικός οίκος: Gutenberg, Αθήνα 1993.
-17. Christopher Headington, “Ιστορία της Δυτικής Μουσική από την αρχαιότητα ως τις μέρες μας”, Τόμος ΙΙ “Από τον Γερμανικό Ρομαντισμό κι εφεξής”, Πρόλογος-Μετάφραση: Μάρκος Δραγούμης, Εκδοτικός οίκος: Gutenberg, Αθήνα 1993.
-18. Tan, Michelle. “*Seeing Sound & Hearing Colours: Exploring the Concept of Chromesthesia.*” Sound of Life, Powered by KEF: Hi-Fi Speakers & Headphones, 6 Sept. 2021, https://www.soundoflife.com/blogs/experiences/seeing-sound-hearing-colours-exploring-the-concept-of-chromesthesia, Accessed 29 December 2022.
-19. Νταλχάους, Καρλ. “Αισθητική Της Μουσικής”, Ελληνική γλώσσα ed., Στάχυ , Αθήνα, 2000.
-20. Roberts, David. “*Visual Feasts of the Mind: Matching How We Teach to How We Learn*” Ghost Archive, TEDx Talks and TEDxLoughboroughU, 13 Dec. 2016, https://ghostarchive.org/varchive/FJyhTg26w-A, Accessed 2 January 2023.
