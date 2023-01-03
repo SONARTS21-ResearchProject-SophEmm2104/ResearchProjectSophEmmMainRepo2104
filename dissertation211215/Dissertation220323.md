@@ -93,7 +93,7 @@ Although the analysis of a work by the composer himself seems problematic, the c
 
 Έκτοτε και έως τις μέρες μας, πλήθος μουσικών και ερευνητών προσπάθησαν να βρούνε ή να εφεύρουν συστήματα τα οποία συσχετίζουν την εικόνα με τον ήχο και επαληθεύονται με αντικειμενικά κριτήρια. Δυστυχώς κάτι τέτοιο δεν είναι εφικτό διότι το φως -και συνεπώς το χρώμα και η εικόνα- αποτελεί ένα ηλεκτρομαγνητικό κύμα ενώ ο ήχος -η μουσική, ο θόρυβος- αποτελεί ένα μηχανικό κύμα και είναι ανεξάρτητα μεταξύ τους. Επιπλέον οι συναισθητικές εμπειρίες διαφέρουν μεταξύ των συναισθητικών ανθρώπων καθώς κάθε άνθρωπος έχει διαφορετική ανταπόκριση στην έκθεση ενός χρώματος/ποιότητα φωτός (Neely,2018). Αυτό διαφαίνεται και από τις παρακάτω εικόνες οι οποίες μας δείχνουν δύο διαφορετικά συστήματα αντιστοίχισης νοτών και χρωμάτων.
 
-![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/Association-between-note-and-color-Alexander-Scriabin_Q320.jpg
+![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/Association-between-note-and-color-Alexander-Scriabin_Q320.jpg)
 
 Εικόνα 1: Σύστημα συσχέτισης νοτών και χρωμάτων από τον Αλεξάντρ Σκριάμπιν (Matanski, 2017).
 
