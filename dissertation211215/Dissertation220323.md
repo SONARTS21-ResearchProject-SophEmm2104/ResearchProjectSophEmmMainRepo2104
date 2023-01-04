@@ -321,7 +321,7 @@ john cage -> happenings
 20. Matanski, Viktor, "*Generative visualization based on sound*". Scientific Figure on ResearchGate. Published on 16 August 2017. Available from: https://www.researchgate.net/figure/Association-between-note-and-color-Alexander-Scriabin_fig2_319136065, Accessed 3 January 2023.
 21. Goss, Clint, and  Melendez, Nicolas. “*The Color of Sound*” Flutopedia, Manifest Spirit Music, Published on 20 August 2016, https://www.flutopedia.com/sound_color.htm, Accessed 3 January 2023.
 22. Ambryix1. “*What Is Multimedia Art*” Movement for Hope | Neuroscience. Art. Innovation, Published on 13 October 2011, http://www.movementforhope.org/what-is-multimedia-art/, Accessed 3 January 2023.
-23. Hermansson, Mathias. “Synaesthesia - Colours in Music.” T | Blog, Thomann Deutschland , Published on 15 March 2022, https://www.thomann.de/blog/en/synaesthesia-colours-in-music/, , Accessed 3 January 2023.
+23. Hermansson, Mathias. “Synaesthesia - Colours in Music.” T | Blog, Thomann Deutschland , Published on 15 March 2022, https://www.thomann.de/blog/en/synaesthesia-colours-in-music/, , Accessed 4 January 2023.
 
 
 
