@@ -335,25 +335,25 @@ O όρος ρητορική (ενν. τέχνη) (θηλ. γέν. του αρχ�
 
  ![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/17.%20Life%20in%20Plastic_page-0004.jpg)
  
- Εικόνα 3: Παρτιτούρα έργου "*Life in Plastic*", δεύτερη σελίδα οδηγιών 
+ Εικόνα 4: Παρτιτούρα έργου "*Life in Plastic*", δεύτερη σελίδα οδηγιών 
 
 Ωστόσο πέρα από τις λεκτικές οδηγίες, η παρτιτούρα συνεχίζει με ρυθμικά pattern τα οποία οι εκτελεστές καλούνται να ερμηνεύσουν κατά την διάρκεια του έργου σύμφωνα με τις οδηγίες. 
 
  ![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/Life%20in%20Plastic_pages-to-jpg-0001.jpg)
  
- Εικόνα 3: Παρτιτούρα έργου "*Life in Plastic*", πρώτη σελίδα
+ Εικόνα 5: Παρτιτούρα έργου "*Life in Plastic*", πρώτη σελίδα
 
  ![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/Life%20in%20Plastic_pages-to-jpg-0002.jpg)
  
- Εικόνα 4: Παρτιτούρα έργου "*Life in Plastic*", δεύτερη σελίδα
+ Εικόνα 6: Παρτιτούρα έργου "*Life in Plastic*", δεύτερη σελίδα
 
  ![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/Life%20in%20Plastic_pages-to-jpg-0003.jpg)
  
- Εικόνα 5: Παρτιτούρα έργου "*Life in Plastic*", τρίτη σελίδα
+ Εικόνα 7: Παρτιτούρα έργου "*Life in Plastic*", τρίτη σελίδα
 
  ![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/Life%20in%20Plastic_pages-to-jpg-0004.jpg)
  
- Εικόνα 6: Παρτιτούρα έργου "*Life in Plastic*", τέταρτη σελίδα
+ Εικόνα 8: Παρτιτούρα έργου "*Life in Plastic*", τέταρτη σελίδα
 
 Στην παρτιτούρα αυτή υπάρχουν 35 ρυθμικά μοτίβα τα οποία ο εκάστοτε εκτελεστής μπορεί να τα παίξει με οποιαδήποτε σειρά επιθυμεί. Ο αριθμός 35 των ρυθμικών μοτίβων/pattern συμβολίζει τα 35 Κέντρα Διαλογής Ανακυκλώσιμων Υλικών (ΚΔΑΥ) που επιδοτούνται από την Ελληνική Εταιρία Αξιοποίησης Ανακύκλωσης και μόλις το 18% των συνολικών απορριμμάτων ανακυκλώνεται σύμφωνα με τα στατιστικά της παρακάτω φωτογραφία (Μεντζίδης, 2020).
 
