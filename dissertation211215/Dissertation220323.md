@@ -312,7 +312,7 @@ O όρος ρητορική (ενν. τέχνη) (θηλ. γέν. του αρχ�
 
 Τα δείγματα βίντεο (takes) που χρησιμοποιήθηκαν για την σύνθεση του προκατασκευασμένου οπτικού υλικού προήλθαν από βίντεο τα οποία είχαν ως κεντρική θεματική το πλαστικό (χρήση του μέσου καθεαυτού καθώς και παραγωγή του) ή την ρύπανση που δημιουργεί. Επιπλέον, μαζί με τον Ντουλματζή Κώστα δημιουργίσαμε πλάνα συγκεκριμένα για το έργο "*Life in Plastic*" που είχαν και αυτά ως σκοπό να αναδείξουν την ρύπανση από το πλαστικό καθώς και το πόσο εξαρτημένοι σαν άνρθωποι είμαστε από αυτό το "μέσο". 
 
-"*Life in Plastic*"(https://drive.google.com/file/d/1MVDrZZ1vUuADzXsGK9xfA9COyisN5Ocu/view?usp=share_link)
+["*Life in Plastic*"](https://drive.google.com/file/d/1MVDrZZ1vUuADzXsGK9xfA9COyisN5Ocu/view?usp=share_link)
 
 Βίντεο 1: Οπτικό υλικό από το έργο "*Life in Plastic*"
 
@@ -387,7 +387,7 @@ O όρος ρητορική (ενν. τέχνη) (θηλ. γέν. του αρχ�
 
 Στην παρούσα εργασία η κεντρική θεματική είναι το πλαστικό (ως υλικό και ως έννοια) καθώς και η ανακύκλωση/επαναχρησιμοποίησή του. Η θεματική αυτή αποτυπώνεται ξεχωριστά από τα μέσα τόσο από τον χρόνο σύνθεσής τους όσο και από την ίδια τους την επιτέλεση.  Στην παρούσα ενότητα αναλύουμε το προκατασκευασμένο ηχητικό υλικό του έργου (tape) (Κεφάλαιο 3.1), το προκατασκευασμένο οπτικό υλικό (video) (Βλ. Κεφάλαιο 3.2) καθώς και την παρτιτούρα επιτέλεσης του έργου (Βλ. Κεφάλαιο 3.3).
 
-"*Life in Plastic*"(https://drive.google.com/file/d/1MVDrZZ1vUuADzXsGK9xfA9COyisN5Ocu/view?usp=share_link)
+["*Life in Plastic*"](https://drive.google.com/file/d/1MVDrZZ1vUuADzXsGK9xfA9COyisN5Ocu/view?usp=share_link)
 
 Βίντεο 1: Οπτικό υλικό από το έργο "*Life in Plastic*"
 
@@ -474,6 +474,10 @@ H δεύτερη εκδοχή του έργου ουσιαστικά διαφέ�
 ![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/2%CE%BF%20%CE%A6%CE%B5%CF%83%CF%84%CE%B9%CE%B2%CE%AC%CE%BB%20%CE%A3%CF%8D%CE%B3%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%85%20%CE%9A%CE%B1%CE%BB%CE%BB%CE%B9%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%BF%CF%8D%20%CE%9A%CE%B1%CE%BC%CF%80%CE%B1%CF%81%CE%AD_page-0002.jpg)
 
 Εικόνα 2: Πρόγραμμα 2ου Φεστιβάλ Συγχρονου Καλλιτεχνικού Καμπαρέ του Red Jasper Cabaret Theater, σελ.2
+
+![alt text](https://github.com/Emmionel/ResearchProjectSophEmmMainRepo2104/blob/main/dissertation211215/images/347228640_957134415711302_8445104017190116423_n.jpg)
+
+Εικόνα 3: Αφίσα 2ου Φεστιβάλ Συγχρονου Καλλιτεχνικού Καμπαρέ του Red Jasper Cabaret Theater
 
 ## 7. Βιβλιογραφία
 
